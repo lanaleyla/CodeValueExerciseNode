@@ -1,0 +1,14 @@
+{
+  "name": "exe8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lana Leyla Krikheli",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.6.8"
+  }
+}
